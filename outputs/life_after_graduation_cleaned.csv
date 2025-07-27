@@ -1,0 +1,801 @@
+institution_name,major_field,degree_level,median_earnings,employment_rate,debt_median
+IIT Bombay,Economics,Master's,99191.0,0.96,12863.0
+UC Berkeley,Psychology,Bachelor's,56243.0,0.8,30764.0
+IIT Bombay,Engineering,Master's,110225.0,0.96,22649.0
+Yale,Computer Science,Master's,110440.0,0.98,34136.0
+LSE,Philosophy,Master's,58223.0,0.75,28761.0
+Seoul National University,Philosophy,Master's,59875.0,0.79,32002.0
+McGill University,Computer Science,Bachelor's,94646.0,0.93,12326.0
+IIT Bombay,Commerce,Bachelor's,60371.0,0.82,16772.0
+LSE,Fine Arts,Bachelor's,49057.0,0.93,24739.0
+University of Melbourne,Philosophy,Master's,58608.0,0.77,11363.0
+Oxford,Biology,Bachelor's,52342.0,0.76,16311.0
+ETH Zurich,Engineering,Bachelor's,77411.0,0.71,12961.0
+NUS,Philosophy,Bachelor's,47973.0,0.89,34002.0
+NYU,Finance,Bachelor's,80577.0,0.87,21747.0
+MIT,Fine Arts,Master's,55686.0,0.825,33341.0
+NUS,Engineering,Bachelor's,77713.0,0.72,17215.0
+NYU,Mechanical Engg,Master's,95900.0,0.68,16259.0
+Harvard,Fine Arts,Bachelor's,40862.0,0.95,14537.0
+Seoul National University,Commerce,Master's,69852.0,0.69,26564.0
+University of Toronto,Marketing,Bachelor's,60172.0,0.81,23564.0
+NUS,Computer Science,Bachelor's,88956.0,0.67,32021.0
+ETH Zurich,Engineering,Bachelor's,79192.0,0.87,32823.0
+Tsinghua University,Engineering,Bachelor's,81148.0,0.98,19589.0
+KTH Royal Institute,Political Science,Bachelor's,54064.0,0.9,17463.0
+Seoul National University,Philosophy,Master's,58324.0,0.96,34519.0
+IIT Bombay,Philosophy,Master's,62447.0,0.93,30518.0
+UCLA,Mechanical Engg,Bachelor's,73605.0,0.99,20113.0
+UCLA,Commerce,Bachelor's,61479.0,0.81,23340.0
+Yale,Mathematics,Master's,100551.0,0.79,12461.0
+NYU,Mechanical Engg,Bachelor's,84738.0,0.77,24148.0
+UC Berkeley,Economics,Bachelor's,75853.0,0.85,16383.0
+Stanford University,Architecture,Master's,73677.0,0.79,16252.0
+Oxford,Fine Arts,Master's,52730.0,0.77,23298.0
+University of Toronto,Psychology,Bachelor's,47310.0,0.89,29971.0
+KTH Royal Institute,Finance,Master's,106344.0,0.96,25686.0
+MIT,Philosophy,Master's,76915.0,0.78,31911.0
+Columbia,Political Science,Master's,65800.0,0.97,34072.0
+UCLA,Finance,Bachelor's,92943.0,0.97,21015.0
+McGill University,Engineering,Master's,99977.0,0.91,25488.0
+McGill University,Data Science,Bachelor's,95699.0,0.91,34898.0
+NYU,Engineering,Bachelor's,87898.0,0.95,13863.0
+NUS,Mathematics,Bachelor's,78387.0,0.93,19067.0
+Columbia,Political Science,Master's,70939.0,0.98,34277.0
+MIT,Finance,Master's,94666.0,0.96,18213.0
+UCLA,Finance,Bachelor's,85683.0,0.97,18956.0
+IIT Bombay,Philosophy,Master's,71051.0,0.7,24841.0
+Tsinghua University,Political Science,Bachelor's,59036.0,0.86,21974.0
+University of Toronto,Commerce,Bachelor's,54969.0,0.89,23708.0
+Yale,Commerce,Master's,74421.0,0.99,15375.0
+Tsinghua University,Architecture,Bachelor's,64847.0,0.78,27170.0
+ETH Zurich,Engineering,Bachelor's,89059.0,0.97,18241.0
+NYU,Commerce,Master's,76990.0,0.67,22685.0
+UCLA,Mathematics,Master's,96228.0,0.96,34363.0
+KTH Royal Institute,Philosophy,Bachelor's,45289.0,0.76,14535.0
+UCLA,Philosophy,Master's,55917.0,0.86,17790.0
+Yale,Finance,Bachelor's,77345.0,0.68,20354.0
+University of Delhi,Finance,Bachelor's,86583.0,0.86,11369.0
+University of Delhi,Psychology,Bachelor's,48047.0,0.85,15752.0
+McGill University,Marketing,Master's,60706.0,0.86,27737.0
+NUS,Psychology,Bachelor's,56655.0,0.83,12646.0
+NUS,Philosophy,Master's,58395.0,0.78,22748.0
+Columbia,Data Science,Bachelor's,93884.0,0.95,22352.0
+Seoul National University,Finance,Master's,110271.0,0.78,21723.0
+Oxford,Finance,Master's,101349.0,0.67,34434.0
+Harvard,Philosophy,Master's,63958.0,0.83,21890.0
+UCLA,Computer Science,Master's,111857.0,0.85,20985.0
+University of Melbourne,Philosophy,Bachelor's,52744.0,0.92,18242.0
+McGill University,Mathematics,Master's,105064.0,1.0,18745.0
+University of Toronto,Economics,Bachelor's,85010.0,0.92,23159.0
+NUS,Philosophy,Master's,70100.0,0.96,17394.0
+NYU,Political Science,Bachelor's,56069.0,0.71,32566.0
+Tsinghua University,Computer Science,Master's,109990.0,0.95,34139.0
+ETH Zurich,Architecture,Bachelor's,61524.0,0.76,30422.0
+KTH Royal Institute,Economics,Master's,102948.0,0.93,14007.0
+Tsinghua University,Architecture,Bachelor's,65927.0,1.0,19349.0
+University of Toronto,Engineering,Master's,105649.0,0.78,22955.5
+ETH Zurich,Biology,Bachelor's,62707.0,0.66,25222.0
+NUS,Engineering,Master's,104362.0,0.9,23401.0
+University of Melbourne,Philosophy,Bachelor's,51885.0,0.79,23087.0
+Columbia,Engineering,Bachelor's,93177.0,0.75,28323.0
+NYU,Finance,Master's,104427.0,0.98,14556.0
+UCLA,Philosophy,Master's,76629.0,0.78,21834.0
+MIT,Finance,Bachelor's,87647.0,0.76,20993.0
+University of Toronto,Data Science,Bachelor's,92354.0,0.97,30558.0
+McGill University,Psychology,Master's,61837.0,0.94,28170.0
+Columbia,Philosophy,Master's,55750.0,0.91,33819.0
+UCLA,Philosophy,Master's,70395.0,0.8,33720.0
+Columbia,Mechanical Engg,Bachelor's,82392.0,0.75,19674.0
+McGill University,Engineering,Master's,103901.0,0.93,11851.0
+UC Berkeley,Architecture,Master's,80433.0,0.92,17498.0
+UC Berkeley,Biology,Bachelor's,54531.0,0.71,21048.0
+McGill University,Philosophy,Master's,63842.0,0.68,20269.0
+NUS,Marketing,Bachelor's,54624.0,0.86,24694.0
+UCLA,Commerce,Bachelor's,55943.0,0.82,17101.0
+Harvard,Psychology,Bachelor's,49949.0,0.86,13854.0
+KTH Royal Institute,Biology,Master's,64129.0,0.67,29173.0
+NUS,Philosophy,Bachelor's,54566.0,0.84,11824.0
+MIT,Economics,Master's,90298.0,0.99,19967.0
+Columbia,Political Science,Bachelor's,52227.0,0.69,16206.0
+UC Berkeley,Marketing,Master's,62252.0,0.86,12251.0
+University of Toronto,Political Science,Master's,61055.0,0.85,23417.0
+NYU,Commerce,Bachelor's,58391.0,0.81,11838.0
+University of Melbourne,Mechanical Engg,Master's,90058.0,0.69,19140.0
+UCLA,Fine Arts,Master's,52497.0,0.84,18199.0
+KTH Royal Institute,Data Science,Bachelor's,93724.0,0.85,21872.0
+Stanford University,Data Science,Master's,115860.0,0.94,18483.0
+ETH Zurich,Psychology,Bachelor's,53341.0,0.9,10789.0
+NYU,Fine Arts,Bachelor's,42335.0,0.85,28185.0
+UCLA,Political Science,Bachelor's,53645.0,0.9,26896.0
+LSE,Philosophy,Master's,57248.0,0.825,27624.0
+Yale,Mechanical Engg,Master's,92604.0,0.88,18628.0
+UCLA,Psychology,Bachelor's,51400.0,0.75,33325.0
+LSE,Economics,Bachelor's,82717.0,0.86,27933.0
+NYU,Philosophy,Bachelor's,58882.0,0.84,34097.0
+Yale,Psychology,Bachelor's,52365.0,0.94,32056.0
+UC Berkeley,Architecture,Bachelor's,67413.0,0.83,24433.0
+Seoul National University,Philosophy,Bachelor's,51413.0,0.86,16820.0
+NYU,Data Science,Bachelor's,83059.0,0.78,25273.0
+University of Toronto,Marketing,Master's,62532.0,0.71,15888.0
+LSE,Data Science,Master's,107815.0,0.74,27151.0
+Oxford,Biology,Bachelor's,54761.0,0.755,19340.0
+McGill University,Architecture,Master's,77647.0,0.92,23204.0
+Columbia,Engineering,Bachelor's,86235.0,0.71,15135.0
+Seoul National University,Mechanical Engg,Bachelor's,74111.0,0.82,17704.0
+Stanford University,Commerce,Master's,66543.0,0.79,11725.0
+ETH Zurich,Computer Science,Master's,116609.0,0.91,31740.0
+University of Toronto,Commerce,Bachelor's,61842.0,0.79,28196.0
+IIT Bombay,Marketing,Bachelor's,57410.0,0.82,13878.0
+University of Delhi,Philosophy,Bachelor's,65234.0,0.84,21161.0
+MIT,Fine Arts,Bachelor's,48273.0,0.67,28287.0
+Yale,Philosophy,Master's,60212.0,0.82,28380.0
+UC Berkeley,Mathematics,Master's,100750.0,0.8,17497.0
+UC Berkeley,Finance,Master's,95953.0,0.84,23249.0
+University of Toronto,Fine Arts,Master's,57124.0,0.69,26841.0
+KTH Royal Institute,Computer Science,Bachelor's,91059.0,0.84,10383.0
+University of Delhi,Biology,Bachelor's,60269.0,0.93,17076.0
+Tsinghua University,Political Science,Master's,65626.0,0.97,15078.0
+Yale,Commerce,Bachelor's,57129.0,0.82,18246.0
+University of Toronto,Philosophy,Bachelor's,47573.0,0.98,14205.0
+Columbia,Economics,Bachelor's,80674.0,0.91,23618.0
+Harvard,Marketing,Bachelor's,52045.0,0.855,25445.0
+KTH Royal Institute,Architecture,PhD,64901.0,0.66,22555.0
+NUS,Finance,Bachelor's,79762.0,0.86,19326.0
+University of Toronto,Mechanical Engg,Bachelor's,85565.0,0.91,19481.0
+McGill University,Mechanical Engg,Bachelor's,85525.0,0.91,32369.0
+MIT,Fine Arts,Bachelor's,42939.0,0.82,26452.0
+UC Berkeley,Philosophy,Master's,75848.0,0.98,24167.0
+University of Toronto,Mathematics,Master's,101504.0,0.68,15803.0
+Harvard,Data Science,Master's,115617.0,0.83,14643.0
+Seoul National University,Mathematics,Master's,101894.0,0.68,28491.0
+Yale,Data Science,Bachelor's,96808.0,0.69,22811.0
+NYU,Computer Science,Bachelor's,86839.0,0.8,32528.0
+IIT Bombay,Philosophy,Bachelor's,47684.0,0.71,29566.0
+Columbia,Psychology,Bachelor's,51561.0,0.83,19497.0
+Yale,Mechanical Engg,Master's,97510.0,0.77,14440.0
+University of Toronto,Data Science,Master's,115588.0,0.78,33301.0
+University of Delhi,Philosophy,Bachelor's,49616.0,0.93,30474.0
+NUS,Mathematics,Master's,92727.0,0.82,24556.0
+McGill University,Political Science,Master's,70350.0,0.86,26440.0
+Columbia,Economics,Bachelor's,87468.0,0.78,15550.0
+University of Melbourne,Political Science,Bachelor's,55974.0,0.85,22525.5
+NYU,Psychology,Master's,64793.0,0.79,18707.0
+NYU,Mechanical Engg,Master's,89841.0,0.99,34597.0
+IIT Bombay,Political Science,Bachelor's,54582.0,0.97,19889.0
+KTH Royal Institute,Architecture,Bachelor's,61908.0,0.74,24433.0
+McGill University,Economics,Master's,101802.0,0.86,24675.0
+Columbia,Data Science,Master's,106672.0,0.9,17634.0
+UC Berkeley,Data Science,Bachelor's,89860.0,0.72,34997.0
+McGill University,Economics,Master's,97910.0,1.0,19598.0
+McGill University,Political Science,Master's,65382.0,0.72,10817.0
+IIT Bombay,Political Science,Master's,68925.0,0.87,30582.0
+Columbia,Political Science,Bachelor's,54176.0,0.94,10805.0
+LSE,Data Science,Bachelor's,87159.0,0.97,25819.0
+UC Berkeley,Philosophy,Bachelor's,50700.0,0.86,17315.0
+Seoul National University,Psychology,Bachelor's,47416.0,0.76,13656.0
+Yale,Marketing,Bachelor's,55851.0,0.76,32003.0
+Harvard,Commerce,Master's,71856.0,0.88,34303.0
+Columbia,Marketing,Bachelor's,58573.0,0.85,13264.0
+ETH Zurich,Finance,Master's,104145.0,0.98,21412.0
+NUS,Fine Arts,Bachelor's,48389.0,0.69,26222.0
+MIT,Commerce,Master's,67094.0,0.69,22986.0
+Tsinghua University,Computer Science,Bachelor's,88601.0,0.7,12560.0
+Yale,Data Science,Master's,103649.0,0.84,18483.0
+UC Berkeley,Mechanical Engg,Master's,94587.0,0.92,28811.0
+Seoul National University,Biology,Master's,66674.0,0.91,17123.0
+Stanford University,Marketing,Master's,64809.0,0.91,19647.0
+IIT Bombay,Mechanical Engg,Bachelor's,86942.0,0.7,27073.0
+ETH Zurich,Philosophy,Bachelor's,54477.0,0.67,22526.0
+NUS,Commerce,Master's,69329.0,0.77,23409.0
+University of Toronto,Philosophy,Bachelor's,47386.0,0.75,11375.0
+UC Berkeley,Engineering,Bachelor's,92701.0,0.86,13173.0
+LSE,Biology,PhD,55864.0,0.68,21379.0
+Columbia,Computer Science,Master's,112919.0,0.9,10064.0
+Stanford University,Fine Arts,Bachelor's,48880.0,0.99,20484.0
+Yale,Fine Arts,Master's,54643.0,0.7,22894.0
+MIT,Commerce,Bachelor's,57728.0,0.68,29612.0
+KTH Royal Institute,Fine Arts,Master's,56482.0,0.94,33309.0
+Stanford University,Fine Arts,Master's,53967.0,0.78,17687.0
+University of Delhi,Political Science,Bachelor's,51066.0,0.76,20326.0
+Columbia,Mechanical Engg,Bachelor's,78309.0,0.89,17291.0
+Yale,Architecture,Master's,71572.0,0.68,13885.0
+UC Berkeley,Mechanical Engg,Master's,100325.0,0.83,30189.0
+Oxford,Marketing,Bachelor's,57322.0,0.855,30502.0
+UC Berkeley,Computer Science,Master's,100705.0,0.69,29523.0
+IIT Bombay,Economics,Bachelor's,82314.0,0.88,23618.0
+Harvard,Fine Arts,Master's,56779.0,0.7,20828.0
+University of Toronto,Mechanical Engg,Bachelor's,86532.0,0.76,25424.0
+Oxford,Mechanical Engg,Master's,94128.0,0.82,34852.0
+McGill University,Finance,Bachelor's,85756.0,0.84,14495.0
+Yale,Philosophy,Bachelor's,63703.0,0.84,13990.0
+IIT Bombay,Mathematics,Bachelor's,74716.0,0.92,18870.0
+UC Berkeley,Economics,Bachelor's,86623.0,0.66,24077.0
+University of Delhi,Marketing,Master's,61117.0,0.89,25353.0
+UCLA,Data Science,Bachelor's,83203.0,0.88,31516.0
+Harvard,Data Science,Master's,119155.0,0.94,17932.0
+McGill University,Biology,Master's,67359.0,0.93,33717.0
+University of Toronto,Marketing,Bachelor's,56225.0,0.91,11945.0
+Columbia,Data Science,Bachelor's,95128.0,0.94,22581.5
+University of Delhi,Fine Arts,Bachelor's,40933.0,0.83,32044.0
+Columbia,Political Science,Master's,67660.0,0.92,17372.0
+Yale,Psychology,Bachelor's,54412.0,0.87,25341.0
+ETH Zurich,Biology,Bachelor's,57236.0,0.67,23852.0
+McGill University,Psychology,Master's,62916.0,0.85,22720.5
+Harvard,Psychology,PhD,50704.0,0.68,22227.0
+LSE,Engineering,Master's,101078.0,0.76,11540.0
+NYU,Engineering,Master's,97367.0,0.67,27176.0
+ETH Zurich,Philosophy,Bachelor's,52143.0,0.85,25506.0
+NYU,Finance,Master's,107243.0,0.7,34931.0
+UCLA,Marketing,Master's,61457.0,0.87,32929.0
+Stanford University,Finance,Master's,103405.0,0.855,29643.0
+McGill University,Architecture,Master's,75293.0,0.84,27020.0
+University of Toronto,Computer Science,Master's,112423.0,0.9,18708.0
+Oxford,Psychology,Master's,67313.0,0.74,18021.0
+NUS,Philosophy,Bachelor's,52409.0,0.95,13974.0
+Oxford,Biology,Master's,64135.0,0.73,21411.0
+Columbia,Biology,Bachelor's,59570.0,0.7,14439.0
+ETH Zurich,Philosophy,Master's,63308.0,0.69,29495.0
+University of Delhi,Marketing,Bachelor's,54004.0,0.66,24694.0
+UCLA,Mathematics,PhD,105210.0,0.77,19411.0
+Columbia,Mechanical Engg,Master's,97977.0,0.84,30984.0
+McGill University,Mathematics,Master's,106409.0,0.91,32309.0
+Oxford,Fine Arts,Bachelor's,48215.0,0.97,10636.0
+ETH Zurich,Psychology,Master's,63263.0,0.825,27157.0
+ETH Zurich,Architecture,Master's,79068.0,0.72,30208.0
+UC Berkeley,Mathematics,Master's,104491.0,0.82,21594.0
+NYU,Mechanical Engg,Bachelor's,73139.0,0.79,17458.0
+MIT,Marketing,Bachelor's,55763.0,0.855,29473.0
+ETH Zurich,Data Science,Bachelor's,86652.0,0.96,29493.0
+UCLA,Philosophy,Master's,58833.0,0.67,23267.0
+Yale,Philosophy,PhD,56145.0,1.0,17652.0
+Harvard,Marketing,Bachelor's,56060.0,0.79,32534.0
+Columbia,Finance,Bachelor's,76825.0,0.74,21015.0
+University of Melbourne,Economics,Bachelor's,86024.0,0.75,26549.0
+Stanford University,Computer Science,Bachelor's,89539.0,0.71,26541.0
+University of Melbourne,Psychology,Bachelor's,53224.0,0.76,29448.0
+University of Melbourne,Fine Arts,Master's,53967.0,0.73,23298.0
+Harvard,Architecture,Bachelor's,56917.0,0.85,15779.0
+Oxford,Psychology,Master's,66063.0,0.79,31281.0
+MIT,Computer Science,Bachelor's,88878.0,0.9,14571.0
+University of Toronto,Commerce,Master's,75598.0,0.91,11466.0
+UC Berkeley,Engineering,Master's,100948.0,0.89,31998.0
+UCLA,Mechanical Engg,Master's,92185.0,0.78,24416.0
+Seoul National University,Fine Arts,Master's,53395.0,0.94,13716.0
+McGill University,Philosophy,Bachelor's,59631.0,0.85,18272.0
+LSE,Computer Science,Bachelor's,82418.0,0.83,17901.0
+ETH Zurich,Biology,Bachelor's,52201.0,0.69,22708.0
+University of Delhi,Mathematics,Master's,93855.0,0.83,26429.0
+Tsinghua University,Engineering,Bachelor's,90608.0,0.78,11144.0
+UC Berkeley,Mechanical Engg,Bachelor's,76068.0,0.73,30613.0
+University of Delhi,Biology,Master's,73514.0,0.89,33904.0
+UCLA,Mechanical Engg,Bachelor's,85421.0,0.84,24463.0
+UCLA,Engineering,Master's,108483.0,0.82,19946.0
+Yale,Psychology,Master's,66418.0,0.85,28420.0
+McGill University,Mathematics,Bachelor's,79462.0,0.92,22597.0
+Yale,Biology,Bachelor's,63135.0,0.93,31936.0
+NUS,Finance,PhD,102182.0,0.73,16264.0
+MIT,Biology,Master's,69050.0,0.9,26177.0
+University of Toronto,Fine Arts,Master's,53249.0,0.97,28591.0
+University of Delhi,Philosophy,Master's,61476.0,0.95,34107.0
+Oxford,Mechanical Engg,Bachelor's,83761.0,0.7,14023.0
+LSE,Computer Science,Master's,115715.0,0.89,17528.0
+Seoul National University,Political Science,Master's,71026.0,0.86,20085.0
+Columbia,Fine Arts,Bachelor's,49052.0,0.9,26232.0
+NYU,Mathematics,Master's,100386.0,0.79,33624.0
+University of Toronto,Philosophy,Master's,72171.0,0.85,18007.0
+Harvard,Engineering,Bachelor's,87157.0,0.73,30891.0
+University of Delhi,Political Science,Master's,62191.0,0.83,29855.0
+McGill University,Engineering,Bachelor's,83375.0,0.78,20330.0
+KTH Royal Institute,Engineering,Bachelor's,78304.0,0.96,20941.0
+University of Toronto,Marketing,Bachelor's,53800.0,0.97,26932.0
+Columbia,Computer Science,PhD,101006.0,0.94,18596.0
+NUS,Architecture,Bachelor's,58209.0,0.72,33309.0
+McGill University,Mechanical Engg,Bachelor's,83609.0,0.84,12501.0
+KTH Royal Institute,Engineering,Bachelor's,81696.0,0.88,20707.0
+Stanford University,Data Science,Bachelor's,87890.0,0.79,21133.0
+Oxford,Mechanical Engg,Bachelor's,85739.0,0.71,11911.0
+Harvard,Architecture,Bachelor's,62978.0,0.96,24433.0
+LSE,Political Science,Master's,70305.0,0.89,12263.0
+Columbia,Political Science,Bachelor's,56254.0,0.72,33717.0
+UCLA,Biology,Master's,66488.0,0.76,29786.0
+University of Toronto,Mechanical Engg,Master's,89651.0,0.84,24465.0
+Seoul National University,Economics,Master's,101367.0,0.86,18822.0
+Columbia,Mechanical Engg,PhD,85115.0,0.74,13933.0
+KTH Royal Institute,Biology,Bachelor's,53514.0,0.92,20272.0
+IIT Bombay,Computer Science,Bachelor's,81705.0,0.88,33955.0
+KTH Royal Institute,Philosophy,Bachelor's,54472.0,0.74,15484.0
+NUS,Philosophy,Bachelor's,51596.0,0.76,24764.0
+IIT Bombay,Commerce,PhD,80736.0,0.92,32540.0
+KTH Royal Institute,Computer Science,Bachelor's,90707.0,0.65,20517.0
+MIT,Biology,Master's,68222.0,0.89,12442.0
+UCLA,Psychology,Master's,63422.0,0.87,22720.5
+Stanford University,Philosophy,Bachelor's,53042.0,0.81,16532.0
+McGill University,Commerce,Master's,68444.0,0.87,22094.0
+Oxford,Philosophy,Master's,63638.0,0.7,12506.0
+University of Melbourne,Commerce,Master's,66624.0,0.81,21791.0
+KTH Royal Institute,Commerce,Bachelor's,54453.0,0.8,27790.0
+KTH Royal Institute,Computer Science,Bachelor's,92823.0,0.97,20271.0
+KTH Royal Institute,Political Science,Bachelor's,56705.0,0.9,26741.0
+University of Toronto,Philosophy,Bachelor's,45901.0,0.76,34082.0
+LSE,Fine Arts,Bachelor's,45865.0,0.72,18499.0
+NYU,Finance,Master's,105301.0,0.855,34030.0
+Tsinghua University,Mathematics,Master's,94428.0,0.8,30004.0
+NUS,Data Science,Bachelor's,90140.0,0.95,17846.0
+University of Delhi,Architecture,Master's,70558.0,0.94,15730.0
+IIT Bombay,Marketing,Master's,67933.0,0.92,11056.0
+ETH Zurich,Data Science,Master's,117185.0,0.85,15552.0
+Seoul National University,Economics,Bachelor's,72521.0,0.79,13009.0
+University of Melbourne,Mechanical Engg,PhD,91888.0,0.78,15928.0
+ETH Zurich,Philosophy,Master's,62007.0,0.8,13278.0
+Seoul National University,Mathematics,Bachelor's,82907.0,0.99,21824.0
+Stanford University,Economics,Master's,96272.0,0.94,24195.0
+University of Toronto,Engineering,Bachelor's,87207.0,0.83,33296.0
+LSE,Data Science,Bachelor's,93942.0,0.88,17115.0
+Yale,Mathematics,Master's,100264.0,0.84,33214.0
+NUS,Mathematics,Master's,93942.0,0.78,16781.0
+Tsinghua University,Finance,Master's,96344.0,0.99,28596.0
+Harvard,Fine Arts,Bachelor's,44758.0,0.67,12598.0
+KTH Royal Institute,Economics,Bachelor's,75958.0,0.76,10714.0
+Columbia,Marketing,Master's,70783.0,0.87,24770.0
+Tsinghua University,Mathematics,Master's,95893.0,0.87,16495.0
+Oxford,Computer Science,Bachelor's,86161.0,0.86,17490.0
+NUS,Finance,Master's,96705.0,1.0,26149.0
+University of Toronto,Fine Arts,Master's,56699.0,0.9,23298.0
+LSE,Commerce,Bachelor's,61642.0,0.9,10484.0
+MIT,Political Science,Bachelor's,57367.0,0.94,18547.0
+Oxford,Finance,Master's,99114.0,0.99,11784.0
+ETH Zurich,Economics,Bachelor's,72201.0,0.85,16179.0
+MIT,Fine Arts,Master's,51376.0,0.81,28205.0
+McGill University,Political Science,Bachelor's,59262.0,1.0,18112.0
+UC Berkeley,Finance,Master's,109970.0,0.88,29269.0
+IIT Bombay,Economics,Master's,103951.0,0.9,29786.0
+UCLA,Mechanical Engg,Bachelor's,77557.0,0.79,20113.0
+University of Toronto,Data Science,Bachelor's,93086.0,0.87,18092.0
+Tsinghua University,Psychology,Bachelor's,49538.0,0.83,14638.0
+Stanford University,Philosophy,Master's,61582.0,0.87,23786.0
+KTH Royal Institute,Psychology,Master's,64052.0,0.67,12676.0
+University of Delhi,Engineering,Bachelor's,85438.0,0.93,11771.0
+University of Delhi,Mathematics,Master's,100678.0,0.79,29856.0
+MIT,Marketing,Master's,61357.0,0.74,19633.0
+University of Delhi,Political Science,Bachelor's,55639.0,0.95,27563.0
+NUS,Architecture,Bachelor's,59985.0,0.71,17878.0
+Yale,Marketing,Master's,64057.0,0.75,28614.0
+Columbia,Mechanical Engg,PhD,77655.0,0.66,14930.5
+IIT Bombay,Philosophy,Master's,69311.0,0.87,10943.0
+Columbia,Economics,Bachelor's,76099.0,0.77,11930.0
+Yale,Finance,Master's,103295.0,0.855,24407.0
+Harvard,Finance,Bachelor's,83883.0,0.81,31236.0
+Stanford University,Mathematics,Master's,99464.0,0.78,34934.0
+Tsinghua University,Finance,Bachelor's,78747.0,0.68,12126.0
+University of Melbourne,Commerce,Bachelor's,58743.0,0.88,16057.0
+LSE,Finance,Master's,104919.0,0.82,10605.0
+Oxford,Economics,Master's,90333.0,0.67,28943.0
+Harvard,Engineering,Bachelor's,90651.0,0.77,21779.0
+Yale,Fine Arts,Bachelor's,44847.0,0.94,22321.5
+Seoul National University,Architecture,Bachelor's,64436.0,0.76,26509.0
+Columbia,Philosophy,Bachelor's,56774.0,0.8,31669.0
+McGill University,Engineering,Bachelor's,88611.0,0.67,28609.0
+Stanford University,Data Science,Master's,119206.0,0.76,34998.0
+Stanford University,Political Science,Master's,62009.0,0.94,27163.0
+NUS,Fine Arts,Bachelor's,44542.0,0.7,15057.0
+UCLA,Psychology,Bachelor's,53624.0,0.88,27986.0
+UC Berkeley,Data Science,Bachelor's,90418.0,0.81,33331.0
+LSE,Economics,Bachelor's,81791.0,0.76,27184.0
+Columbia,Engineering,Master's,104542.0,0.72,15656.0
+NUS,Finance,Bachelor's,87912.0,0.73,20982.0
+KTH Royal Institute,Mechanical Engg,Master's,100419.0,0.89,33478.0
+Seoul National University,Philosophy,Bachelor's,45424.0,0.84,23942.0
+University of Melbourne,Finance,Bachelor's,89652.0,0.76,27248.0
+UCLA,Mechanical Engg,Master's,97367.0,0.84,10622.0
+Tsinghua University,Philosophy,Bachelor's,51485.0,0.93,27655.0
+Columbia,Engineering,Master's,96218.0,0.87,31782.0
+UCLA,Economics,Bachelor's,76952.0,0.96,13289.0
+University of Delhi,Philosophy,Master's,75689.0,0.89,21343.0
+Tsinghua University,Engineering,Bachelor's,85978.0,0.98,10918.0
+MIT,Mathematics,Master's,106497.0,0.71,24307.0
+McGill University,Economics,Master's,100296.0,0.78,31082.0
+Harvard,Psychology,Master's,62681.0,0.86,28243.0
+University of Melbourne,Engineering,Master's,105515.0,0.82,25581.0
+UCLA,Philosophy,Master's,56799.0,0.89,23267.0
+Stanford University,Mechanical Engg,Bachelor's,78634.0,0.67,26015.0
+Oxford,Psychology,Bachelor's,46863.0,0.92,10727.0
+UC Berkeley,Fine Arts,Master's,53770.0,0.66,31630.0
+Yale,Mechanical Engg,Master's,97039.0,0.92,24465.0
+Seoul National University,Mathematics,Master's,106101.0,0.76,31060.0
+Seoul National University,Philosophy,Master's,58082.0,0.99,31926.0
+Columbia,Mechanical Engg,Master's,100559.0,0.96,24465.0
+ETH Zurich,Architecture,Bachelor's,62292.0,0.96,33450.0
+UCLA,Fine Arts,Bachelor's,40536.0,0.82,21671.0
+MIT,Philosophy,Master's,68518.0,0.73,26778.0
+LSE,Economics,PhD,88674.0,0.73,27608.0
+Oxford,Philosophy,Bachelor's,50405.0,0.67,19589.0
+Harvard,Commerce,Master's,76034.0,0.93,27822.0
+McGill University,Engineering,Master's,105376.0,0.69,21763.0
+IIT Bombay,Economics,Master's,98642.0,0.97,21883.0
+Columbia,Mechanical Engg,Master's,97194.0,0.85,23903.0
+Harvard,Finance,Master's,104054.0,0.87,30347.0
+Seoul National University,Commerce,Master's,68077.0,0.92,12858.0
+KTH Royal Institute,Mechanical Engg,Master's,103294.0,0.68,19472.0
+ETH Zurich,Mathematics,Bachelor's,88613.0,0.92,23281.0
+University of Toronto,Philosophy,Master's,60702.0,0.825,34564.0
+Columbia,Engineering,Bachelor's,90992.0,0.67,20330.0
+McGill University,Marketing,Master's,65248.0,0.89,20879.0
+University of Delhi,Mathematics,Bachelor's,88961.0,0.99,13356.0
+Harvard,Mathematics,Bachelor's,89789.0,0.7,32339.0
+KTH Royal Institute,Architecture,Master's,78368.0,0.8,18211.0
+ETH Zurich,Marketing,Bachelor's,55839.0,0.66,24506.0
+Harvard,Economics,Master's,89415.0,0.84,25842.0
+Seoul National University,Psychology,Bachelor's,53572.0,0.83,18822.0
+Oxford,Philosophy,Bachelor's,62723.0,0.88,11290.0
+Oxford,Finance,Bachelor's,90974.0,0.76,10355.0
+NYU,Philosophy,Bachelor's,48697.0,0.72,23184.0
+MIT,Data Science,Bachelor's,98212.0,0.95,28149.0
+UC Berkeley,Fine Arts,Master's,49972.0,0.84,33061.0
+IIT Bombay,Commerce,Master's,66142.0,0.86,27071.0
+MIT,Engineering,Master's,108092.0,0.78,19778.0
+IIT Bombay,Biology,Bachelor's,55833.0,0.755,23131.0
+Tsinghua University,Data Science,Bachelor's,94196.0,0.67,24984.0
+NYU,Biology,Bachelor's,61060.0,0.91,14606.0
+Oxford,Mechanical Engg,Bachelor's,78831.0,0.79,11849.0
+MIT,Commerce,Master's,69175.0,0.83,14461.0
+ETH Zurich,Engineering,Bachelor's,78306.0,0.83,20330.0
+Harvard,Philosophy,PhD,59585.0,0.65,18245.0
+University of Toronto,Philosophy,Bachelor's,49360.0,0.99,10082.0
+ETH Zurich,Engineering,Master's,110449.0,0.91,31029.0
+Oxford,Mathematics,Bachelor's,76932.0,0.93,12121.0
+Tsinghua University,Biology,Bachelor's,59078.0,0.85,23348.0
+Tsinghua University,Computer Science,Bachelor's,88299.0,0.73,31755.0
+McGill University,Economics,Bachelor's,82461.0,0.84,13263.0
+UC Berkeley,Mathematics,Bachelor's,83824.0,0.98,24874.0
+KTH Royal Institute,Fine Arts,Bachelor's,49339.0,0.92,13433.0
+University of Delhi,Finance,Bachelor's,78901.0,0.82,33141.0
+MIT,Economics,Bachelor's,74524.0,1.0,23618.0
+Harvard,Biology,Master's,71831.0,0.73,33452.0
+KTH Royal Institute,Biology,Bachelor's,53221.0,0.98,14797.0
+University of Melbourne,Engineering,Master's,101391.0,0.9,13730.0
+ETH Zurich,Mechanical Engg,Bachelor's,77827.0,0.73,21328.0
+NYU,Biology,Bachelor's,57826.0,0.7,18149.0
+University of Delhi,Biology,Master's,66550.0,0.82,24627.0
+MIT,Architecture,Master's,73002.0,0.7,15055.0
+UCLA,Computer Science,Bachelor's,88528.0,0.95,29864.0
+KTH Royal Institute,Architecture,Bachelor's,60905.0,0.86,21569.0
+Stanford University,Biology,Master's,70521.0,0.8049999999999999,10126.0
+MIT,Computer Science,Master's,106097.0,0.97,12077.0
+Stanford University,Biology,Master's,71312.0,0.69,31448.0
+Seoul National University,Computer Science,Master's,102329.0,1.0,18708.0
+Harvard,Commerce,Master's,74376.0,0.9,25511.0
+Yale,Biology,Bachelor's,52798.0,0.8,26204.0
+Harvard,Political Science,Bachelor's,56639.0,0.94,28829.0
+IIT Bombay,Data Science,Master's,102202.0,0.8,21754.0
+McGill University,Mathematics,Master's,101568.0,0.79,12182.0
+University of Toronto,Architecture,Bachelor's,59221.0,0.93,25681.0
+Oxford,Commerce,Bachelor's,54257.0,0.73,22990.0
+Yale,Commerce,Master's,73990.0,0.86,32457.0
+Oxford,Economics,Master's,101528.0,0.71,14019.0
+McGill University,Psychology,Bachelor's,53730.0,0.71,13161.0
+LSE,Data Science,Bachelor's,100795.0,0.71,13037.0
+Stanford University,Commerce,Master's,67872.0,0.86,17388.0
+Oxford,Finance,Bachelor's,82257.0,0.69,12921.0
+Stanford University,Commerce,Bachelor's,61695.0,0.88,10563.0
+McGill University,Marketing,Master's,64838.0,0.85,26669.0
+University of Toronto,Economics,Master's,93621.0,0.875,21105.0
+NUS,Finance,Master's,100705.0,0.855,15194.0
+ETH Zurich,Marketing,Master's,61472.0,0.81,27756.0
+UCLA,Fine Arts,Bachelor's,47905.0,0.77,15613.0
+Stanford University,Economics,Master's,89986.0,0.92,26119.0
+Stanford University,Engineering,Master's,99649.0,0.84,34356.0
+NYU,Data Science,Bachelor's,88682.0,1.0,20487.0
+Columbia,Computer Science,Master's,102488.0,0.9,18065.0
+Yale,Marketing,Master's,66378.0,0.79,29470.0
+NUS,Data Science,Bachelor's,86266.0,0.88,23302.0
+McGill University,Biology,Bachelor's,53722.0,0.66,21048.0
+KTH Royal Institute,Political Science,Master's,61804.0,0.7,15246.0
+Harvard,Commerce,Bachelor's,54510.0,0.69,12973.0
+LSE,Computer Science,PhD,78684.0,0.89,10731.0
+UCLA,Marketing,Master's,66006.0,0.94,24453.0
+Stanford University,Political Science,Bachelor's,57794.0,0.65,31282.0
+ETH Zurich,Data Science,Bachelor's,89328.0,0.8,34615.0
+NYU,Mechanical Engg,Bachelor's,76612.0,0.94,21423.0
+Oxford,Mathematics,Master's,97218.0,0.99,19186.0
+Stanford University,Mathematics,Master's,101294.0,0.7,28535.0
+UC Berkeley,Engineering,Master's,110341.0,0.7,27837.0
+Seoul National University,Philosophy,Master's,58560.0,0.92,13684.0
+Tsinghua University,Engineering,Bachelor's,78788.0,0.69,34301.0
+University of Toronto,Philosophy,Master's,55765.0,0.95,26552.0
+ETH Zurich,Political Science,Master's,60694.0,0.96,21252.0
+University of Toronto,Philosophy,Master's,75352.0,1.0,19727.0
+NYU,Philosophy,Master's,59759.0,0.99,34271.0
+KTH Royal Institute,Mathematics,Master's,99883.0,0.7,29129.0
+Yale,Commerce,Bachelor's,54677.0,0.75,27199.0
+Oxford,Engineering,Master's,104682.0,0.82,22955.5
+ETH Zurich,Philosophy,Bachelor's,50725.0,0.97,22569.0
+Yale,Economics,Master's,101557.0,0.96,11188.0
+Seoul National University,Commerce,Bachelor's,60938.0,0.89,20677.0
+Columbia,Finance,Bachelor's,83859.0,0.87,21330.0
+McGill University,Economics,Bachelor's,79987.0,0.91,25948.0
+KTH Royal Institute,Marketing,Master's,62707.0,0.83,31103.0
+NUS,Data Science,Bachelor's,88081.0,0.71,13749.0
+Stanford University,Fine Arts,Master's,55322.0,0.66,30088.0
+McGill University,Economics,Bachelor's,78746.0,0.99,32514.0
+NUS,Architecture,Master's,78613.0,0.99,13016.0
+Seoul National University,Finance,Master's,106644.0,0.78,28598.0
+NUS,Fine Arts,Bachelor's,44175.0,1.0,12824.0
+McGill University,Commerce,Master's,77243.0,0.8,21791.0
+KTH Royal Institute,Computer Science,Bachelor's,90949.0,0.77,13051.0
+IIT Bombay,Marketing,Master's,71257.0,0.75,15259.0
+UC Berkeley,Architecture,Master's,73237.0,0.66,21777.0
+NUS,Architecture,Master's,78422.0,0.93,30335.0
+Yale,Mechanical Engg,Bachelor's,79094.0,0.79,24395.0
+NYU,Economics,Bachelor's,84210.0,0.99,21959.0
+UCLA,Psychology,Bachelor's,48866.0,0.82,32108.0
+IIT Bombay,Computer Science,Bachelor's,97323.0,0.835,20025.0
+NUS,Philosophy,Master's,60672.0,0.66,30681.0
+ETH Zurich,Engineering,Bachelor's,89796.0,0.77,25002.0
+Oxford,Biology,Bachelor's,55566.0,0.75,27106.0
+Tsinghua University,Engineering,Bachelor's,83258.0,0.73,11826.0
+McGill University,Computer Science,Bachelor's,98941.0,0.835,11137.0
+LSE,Political Science,Master's,71148.0,0.87,33258.0
+Tsinghua University,Economics,Bachelor's,73869.0,0.67,28695.0
+NUS,Psychology,Master's,60455.0,0.825,13781.0
+Tsinghua University,Computer Science,Bachelor's,85684.0,0.93,11019.0
+Columbia,Biology,Master's,65517.0,0.79,28748.0
+LSE,Philosophy,Bachelor's,50707.0,0.82,32184.0
+Stanford University,Psychology,Bachelor's,55504.0,0.71,21351.0
+LSE,Philosophy,Bachelor's,49531.0,0.84,13233.0
+MIT,Finance,Master's,109682.0,0.8,31637.0
+Harvard,Computer Science,Bachelor's,94546.0,0.91,30158.0
+Oxford,Architecture,Bachelor's,58278.0,0.83,12255.0
+NUS,Finance,Master's,94187.0,0.79,13876.0
+ETH Zurich,Political Science,Bachelor's,54753.0,0.71,23077.0
+Oxford,Philosophy,Bachelor's,50106.0,0.82,18886.0
+Seoul National University,Engineering,Bachelor's,79597.0,0.81,24680.0
+Tsinghua University,Finance,Master's,108312.0,0.72,31790.0
+NYU,Philosophy,Bachelor's,59725.0,0.93,22168.0
+KTH Royal Institute,Marketing,Master's,69351.0,0.69,27400.0
+University of Delhi,Marketing,Bachelor's,54293.0,0.9,21585.0
+ETH Zurich,Commerce,Bachelor's,59343.0,0.84,17370.0
+University of Toronto,Philosophy,Master's,77753.0,0.99,17269.0
+ETH Zurich,Commerce,Master's,76860.0,1.0,21791.0
+Seoul National University,Data Science,Bachelor's,84951.0,0.9,14033.0
+University of Delhi,Mechanical Engg,Master's,98959.0,0.84,32079.0
+University of Toronto,Commerce,Master's,73462.0,0.76,14987.0
+KTH Royal Institute,Mechanical Engg,Bachelor's,75755.0,0.87,26923.0
+UC Berkeley,Marketing,Bachelor's,51993.0,0.87,29234.0
+McGill University,Psychology,Bachelor's,47883.0,0.67,28894.0
+NYU,Finance,Bachelor's,87208.0,1.0,21037.0
+University of Melbourne,Mechanical Engg,Bachelor's,73967.0,0.73,20113.0
+ETH Zurich,Data Science,Master's,115089.0,0.79,20543.0
+IIT Bombay,Economics,Master's,101638.0,0.97,21494.0
+UCLA,Finance,Bachelor's,82251.0,0.81,10927.0
+UCLA,Architecture,Bachelor's,66660.0,0.83,31838.0
+Yale,Philosophy,Master's,77045.0,0.93,29708.0
+Tsinghua University,Biology,Master's,66088.0,0.77,28501.0
+UCLA,Political Science,Master's,64247.0,0.9,16467.0
+Oxford,Biology,Master's,68126.0,0.9,13118.0
+Oxford,Philosophy,Bachelor's,54890.0,0.88,24888.0
+Columbia,Psychology,Master's,58655.0,0.8,14813.0
+Columbia,Mechanical Engg,Bachelor's,73475.0,0.82,26920.0
+University of Toronto,Philosophy,Master's,64965.0,0.93,14071.0
+University of Melbourne,Economics,Master's,101812.0,0.7,33601.0
+Columbia,Architecture,Bachelor's,62889.0,0.67,17581.0
+ETH Zurich,Computer Science,Bachelor's,97096.0,0.835,13058.0
+Columbia,Engineering,Bachelor's,91804.0,0.96,29048.0
+University of Melbourne,Mathematics,Master's,102136.0,0.69,32506.0
+Yale,Political Science,Bachelor's,56605.0,1.0,27684.0
+McGill University,Mathematics,Bachelor's,82686.0,0.95,22565.0
+Stanford University,Engineering,Bachelor's,90604.0,0.99,18010.0
+Seoul National University,Computer Science,PhD,94406.0,0.99,12483.0
+UC Berkeley,Psychology,Bachelor's,56702.0,0.92,27832.0
+Oxford,Commerce,Bachelor's,58506.0,0.98,24650.0
+ETH Zurich,Political Science,Master's,66584.0,0.68,10465.0
+McGill University,Philosophy,Bachelor's,48046.0,0.81,34197.0
+Columbia,Political Science,Bachelor's,59526.0,0.9,17231.0
+UC Berkeley,Computer Science,Bachelor's,96110.0,0.8,22758.0
+MIT,Economics,Bachelor's,74234.0,0.87,33935.0
+Yale,Architecture,Master's,71585.0,0.91,18211.0
+UCLA,Mathematics,PhD,93019.5,0.72,19819.0
+Harvard,Finance,Bachelor's,84068.0,0.7,19668.0
+Stanford University,Engineering,Master's,104612.0,0.95,14787.0
+KTH Royal Institute,Mathematics,Master's,106063.0,0.66,10178.0
+University of Toronto,Engineering,Master's,104717.0,0.88,13206.0
+Harvard,Economics,Master's,99662.0,0.76,21494.0
+McGill University,Philosophy,Master's,63308.0,0.82,18074.0
+NUS,Psychology,Bachelor's,54693.0,1.0,21221.0
+Stanford University,Commerce,Bachelor's,65883.0,0.74,14921.0
+Yale,Psychology,Bachelor's,55203.0,0.89,12696.0
+IIT Bombay,Data Science,Bachelor's,84141.0,0.89,13120.0
+MIT,Architecture,Bachelor's,65504.0,0.67,20795.0
+NYU,Mathematics,Bachelor's,75371.0,0.95,10265.0
+University of Toronto,Mechanical Engg,Master's,103001.0,0.96,12567.0
+KTH Royal Institute,Biology,Bachelor's,53661.0,0.85,14648.0
+UCLA,Finance,Bachelor's,92815.0,0.95,13685.0
+Oxford,Philosophy,Master's,61576.0,0.71,11365.0
+Columbia,Fine Arts,Bachelor's,42204.0,0.84,31300.0
+Seoul National University,Data Science,Master's,115721.0,0.67,18483.0
+IIT Bombay,Biology,Bachelor's,61112.0,0.98,30652.0
+Stanford University,Data Science,Bachelor's,88146.0,0.73,10742.0
+University of Delhi,Psychology,Bachelor's,55614.0,0.75,12529.0
+UCLA,Commerce,Bachelor's,58435.0,0.8,25580.0
+NUS,Architecture,Bachelor's,58151.0,0.86,25903.0
+MIT,Finance,Bachelor's,80701.0,0.9,24602.0
+ETH Zurich,Fine Arts,Bachelor's,42006.0,0.81,22972.0
+UC Berkeley,Data Science,Master's,109917.0,0.88,15179.0
+University of Delhi,Mechanical Engg,Bachelor's,81141.0,0.79,12100.0
+Tsinghua University,Political Science,Master's,64200.0,0.83,16825.0
+Stanford University,Economics,Master's,89318.0,0.99,33165.0
+NYU,Engineering,Bachelor's,87976.0,0.75,14766.0
+KTH Royal Institute,Philosophy,Master's,75397.0,0.81,21800.0
+University of Melbourne,Finance,Bachelor's,80067.0,0.74,30359.0
+Yale,Finance,Bachelor's,88365.0,0.73,24437.0
+UCLA,Psychology,Bachelor's,49145.0,0.82,17490.0
+Seoul National University,Computer Science,Bachelor's,86944.0,0.9,34504.0
+University of Delhi,Commerce,Bachelor's,60834.0,0.83,23822.0
+MIT,Philosophy,Master's,70630.0,0.73,19216.0
+Stanford University,Economics,Master's,89771.0,0.86,31642.0
+UCLA,Marketing,Bachelor's,51246.0,0.88,21473.0
+University of Delhi,Computer Science,Bachelor's,85443.0,0.78,10977.0
+Harvard,Psychology,Master's,61267.0,0.98,25443.0
+NUS,Mechanical Engg,Master's,94296.0,0.84,25702.0
+Oxford,Mathematics,Bachelor's,81893.0,0.92,12630.0
+Yale,Commerce,Master's,66320.0,0.91,19983.0
+University of Delhi,Philosophy,Bachelor's,57925.0,0.95,16057.0
+Tsinghua University,Economics,Master's,88289.0,0.69,11939.0
+Stanford University,Mathematics,Master's,90764.0,0.92,30287.0
+NYU,Commerce,Master's,70528.0,0.73,10400.0
+Stanford University,Computer Science,Master's,116257.0,0.69,11100.0
+University of Melbourne,Engineering,Master's,109383.0,0.81,18084.0
+Stanford University,Philosophy,Master's,73895.0,0.76,20277.0
+KTH Royal Institute,Mechanical Engg,Bachelor's,81107.0,0.75,19714.0
+UCLA,Data Science,Bachelor's,98468.0,0.84,19559.0
+IIT Bombay,Political Science,Bachelor's,52897.0,0.95,19363.0
+Oxford,Fine Arts,Bachelor's,47027.0,0.82,17938.0
+MIT,Political Science,Master's,69816.0,0.78,26625.0
+IIT Bombay,Finance,Bachelor's,84020.0,0.65,25859.0
+UCLA,Fine Arts,Bachelor's,48886.0,0.74,28041.0
+IIT Bombay,Commerce,Bachelor's,65612.0,0.73,18989.0
+University of Toronto,Economics,Master's,100165.0,0.98,21494.0
+University of Toronto,Commerce,Bachelor's,55833.0,0.94,19378.0
+KTH Royal Institute,Mechanical Engg,Bachelor's,86658.0,0.65,20113.0
+NUS,Commerce,Master's,66854.0,1.0,14059.0
+NUS,Psychology,Master's,64443.0,0.91,10862.0
+Columbia,Mathematics,Bachelor's,81269.0,0.92,31037.0
+Stanford University,Engineering,Bachelor's,86464.0,0.78,30743.0
+LSE,Biology,Master's,70598.0,0.94,12731.0
+Seoul National University,Finance,Master's,106220.0,0.855,12421.0
+NUS,Political Science,Master's,64621.0,0.93,21266.0
+University of Delhi,Economics,Bachelor's,76149.0,0.85,31709.0
+UC Berkeley,Engineering,Master's,94004.0,0.74,22955.5
+LSE,Finance,Bachelor's,80088.0,0.97,16645.0
+ETH Zurich,Mechanical Engg,Master's,93489.0,0.78,25270.0
+Columbia,Marketing,PhD,57259.0,0.98,10221.0
+NYU,Marketing,Master's,65471.0,0.92,10078.0
+Yale,Computer Science,Master's,111202.0,0.74,18708.0
+ETH Zurich,Mathematics,Bachelor's,76147.0,0.86,13196.0
+Harvard,Psychology,Master's,64091.0,0.75,12235.0
+NUS,Biology,Bachelor's,61089.0,0.74,13077.0
+UCLA,Architecture,Master's,79754.0,0.96,27936.0
+University of Toronto,Mathematics,Master's,91637.0,0.69,12902.0
+Columbia,Economics,Master's,99191.0,0.67,17991.0
+Columbia,Finance,Bachelor's,83220.0,0.87,30930.0
+ETH Zurich,Mathematics,Master's,104125.0,0.98,27214.0
+LSE,Marketing,Master's,71131.0,0.67,31201.0
+IIT Bombay,Biology,Bachelor's,60637.0,0.77,10539.0
+University of Toronto,Data Science,Master's,108395.0,0.86,31406.0
+University of Toronto,Engineering,Bachelor's,77420.0,0.78,21047.0
+ETH Zurich,Psychology,Bachelor's,53572.0,0.79,31460.0
+University of Toronto,Commerce,Bachelor's,56155.0,0.67,34243.0
+University of Toronto,Fine Arts,Bachelor's,45865.0,0.72,26768.0
+Harvard,Finance,Master's,104604.0,0.8,26719.0
+University of Melbourne,Fine Arts,Bachelor's,46743.0,0.69,27568.0
+Oxford,Philosophy,Bachelor's,52952.0,0.72,22168.0
+McGill University,Marketing,Master's,69507.0,0.91,12933.0
+KTH Royal Institute,Philosophy,Bachelor's,54469.0,0.88,28826.0
+Harvard,Engineering,Master's,109568.0,0.65,29570.0
+McGill University,Mechanical Engg,Bachelor's,87776.0,0.79,30494.0
+IIT Bombay,Computer Science,Bachelor's,83415.0,0.87,20550.0
+McGill University,Psychology,Master's,58065.0,0.75,11763.0
+LSE,Mathematics,Bachelor's,82187.0,0.72,19473.0
+KTH Royal Institute,Fine Arts,Bachelor's,44161.0,0.78,13658.0
+IIT Bombay,Psychology,Bachelor's,56698.0,0.96,24720.0
+ETH Zurich,Engineering,Master's,103826.0,0.82,18629.0
+McGill University,Political Science,Master's,65626.0,0.86,28385.0
+MIT,Architecture,Master's,76964.0,0.72,16895.0
+NUS,Political Science,Bachelor's,53971.0,0.78,33621.0
+UC Berkeley,Philosophy,Bachelor's,53083.0,0.65,13410.0
+ETH Zurich,Political Science,Bachelor's,57705.0,0.94,28474.0
+University of Melbourne,Mathematics,Bachelor's,88263.0,0.86,22842.0
+MIT,Commerce,Master's,76968.0,0.75,17479.0
+Oxford,Philosophy,Bachelor's,65076.0,0.84,33385.0
+KTH Royal Institute,Marketing,PhD,53845.0,0.69,10221.0
+NUS,Mechanical Engg,Bachelor's,73981.0,0.84,19883.0
+Oxford,Data Science,Master's,119404.0,0.91,10145.0
+University of Delhi,Engineering,Bachelor's,82130.0,0.66,34573.0
+NYU,Commerce,Master's,69898.0,0.96,31076.0
+University of Toronto,Economics,Bachelor's,77505.0,0.66,20741.0
+KTH Royal Institute,Biology,Bachelor's,61026.0,0.75,29168.0
+LSE,Biology,Bachelor's,61279.0,0.69,31371.0
+UCLA,Fine Arts,Bachelor's,48861.0,0.82,20182.0
+Oxford,Biology,Bachelor's,57154.0,0.67,27789.0
+IIT Bombay,Data Science,PhD,91354.0,0.76,16306.0
+ETH Zurich,Data Science,Master's,115338.5,0.87,19034.0
+Seoul National University,Political Science,Master's,61459.0,0.69,34208.0
+University of Delhi,Fine Arts,Master's,52586.0,0.94,11095.0
+University of Delhi,Commerce,Master's,72724.0,0.79,20903.0
+ETH Zurich,Commerce,Bachelor's,57475.0,0.82,30363.0
+ETH Zurich,Mathematics,Bachelor's,86581.0,0.81,15445.0
+Stanford University,Architecture,Master's,78770.0,0.77,23339.0
+Oxford,Computer Science,Bachelor's,96720.0,0.67,12904.0
+Columbia,Mathematics,Master's,94530.0,0.7,25648.0
+Stanford University,Marketing,Master's,71187.0,0.86,12661.0
+University of Toronto,Mathematics,Master's,103596.0,0.74,28822.0
+UCLA,Mechanical Engg,Bachelor's,79664.0,0.85,24241.0
+UC Berkeley,Philosophy,Master's,70730.0,0.89,32728.0
+University of Toronto,Engineering,Bachelor's,82923.0,0.66,11093.0
+IIT Bombay,Finance,Bachelor's,89970.0,0.65,31318.0
+Harvard,Fine Arts,Bachelor's,41968.0,0.78,25687.0
+NYU,Computer Science,Bachelor's,96056.0,0.71,20271.0
+NUS,Commerce,Bachelor's,62213.0,0.92,34769.0
+IIT Bombay,Engineering,Master's,109196.0,0.82,23262.0
+KTH Royal Institute,Economics,Master's,101081.0,0.79,33322.0
+Harvard,Finance,Bachelor's,78992.0,0.71,30366.0
+NYU,Philosophy,Master's,64947.0,0.72,27335.0
+NUS,Philosophy,Master's,58831.0,0.87,15752.0
+Harvard,Philosophy,Master's,57193.0,0.68,19059.0
+ETH Zurich,Economics,Bachelor's,85868.0,0.98,34295.0
+NUS,Fine Arts,Bachelor's,49158.0,0.93,22321.5
+NUS,Data Science,Bachelor's,98208.0,1.0,11926.0
+Seoul National University,Marketing,Master's,68729.0,0.93,29534.0
+Stanford University,Psychology,Bachelor's,54611.0,0.85,31899.0
+McGill University,Biology,Master's,68714.0,0.71,13128.0
+University of Delhi,Commerce,Bachelor's,60711.0,0.99,26047.0
+University of Toronto,Economics,Bachelor's,73734.0,0.68,23618.0
+Oxford,Economics,Bachelor's,76945.0,0.87,23618.0
+LSE,Engineering,Bachelor's,81847.0,0.78,19953.0
+University of Delhi,Data Science,Master's,102991.0,0.81,13754.0
+Seoul National University,Finance,Master's,96240.0,0.92,15789.0
+University of Delhi,Finance,Bachelor's,85277.0,0.94,29633.0
+Yale,Psychology,Master's,64612.0,0.92,33950.0
+Seoul National University,Mathematics,PhD,80829.0,1.0,21370.0
+UC Berkeley,Architecture,Master's,69306.0,0.72,16400.0
+Tsinghua University,Mathematics,Bachelor's,79760.0,0.76,21020.0
+University of Melbourne,Marketing,Master's,63391.0,1.0,28526.0
+IIT Bombay,Biology,Bachelor's,58813.0,0.99,18723.0
+Tsinghua University,Mathematics,Master's,105936.0,0.81,18560.0
+KTH Royal Institute,Mechanical Engg,Bachelor's,72612.0,0.71,10783.0
+KTH Royal Institute,Finance,Master's,110135.0,0.74,25291.5
+NUS,Psychology,Master's,61412.0,0.77,26741.0
+LSE,Economics,Bachelor's,84050.0,0.72,27220.0
+UC Berkeley,Biology,Master's,63915.0,0.96,25412.0
+Yale,Philosophy,Master's,71993.0,0.78,28057.0
+Tsinghua University,Marketing,Bachelor's,49901.0,0.95,25023.0
+University of Delhi,Data Science,Bachelor's,83064.0,0.98,31693.0
+ETH Zurich,Mathematics,Master's,97183.0,0.79,19328.0
+McGill University,Philosophy,Bachelor's,51885.0,0.82,31424.0
+Harvard,Finance,PhD,73287.0,0.95,22584.0
+MIT,Mathematics,Master's,99246.0,0.7,29843.0
+Tsinghua University,Philosophy,Master's,69403.0,1.0,20367.0
+IIT Bombay,Philosophy,PhD,78267.0,0.86,24304.0
+NUS,Fine Arts,Master's,56711.0,0.88,14342.0
+Yale,Political Science,Bachelor's,55046.0,0.9,16505.0
+McGill University,Economics,Master's,98062.0,0.89,11969.0
+University of Toronto,Computer Science,Bachelor's,84357.0,0.91,28157.0
+University of Toronto,Finance,Master's,104166.0,0.91,24897.0
+NYU,Economics,Master's,101513.0,0.875,20343.0
+ETH Zurich,Mathematics,Bachelor's,84190.0,0.83,26491.0
+KTH Royal Institute,Marketing,Bachelor's,60444.0,0.855,13039.0
+KTH Royal Institute,Computer Science,Bachelor's,87568.0,0.835,27290.0
+UCLA,Psychology,Master's,62935.0,0.77,19998.0
+University of Delhi,Psychology,Bachelor's,56803.0,0.69,15145.0
+ETH Zurich,Commerce,Master's,73474.0,0.89,25817.0
+Harvard,Mechanical Engg,Bachelor's,78556.0,0.89,19957.0
+NYU,Economics,Master's,91442.0,0.8,21494.0
+Stanford University,Biology,Master's,66498.0,0.68,24023.0
+KTH Royal Institute,Architecture,Bachelor's,61196.0,0.98,11169.0
+LSE,Commerce,Bachelor's,58594.0,0.88,34698.0
+Tsinghua University,Psychology,Bachelor's,56347.0,0.67,30062.0
+Oxford,Psychology,Master's,60457.0,0.89,31216.0
+NYU,Marketing,Master's,69580.0,0.71,15658.0
+Harvard,Fine Arts,Master's,53967.0,0.93,11200.0
+Oxford,Engineering,Master's,98088.0,0.72,31547.0
+Seoul National University,Architecture,Master's,71182.0,0.84,22067.0
