@@ -18,7 +18,7 @@ The findings are presented through clear charts and grouped statistics, using a 
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
 Life_After_Graduation_EDA/
 ├── data/
@@ -26,7 +26,7 @@ Life_After_Graduation_EDA/
 ├── notebooks/
 │ └── Life_After_Graduation_EDA.ipynb # Main EDA notebook
 ├── outputs/
-│ └── life_after_graduation_cleaned.csv # Cleaned data
+│ ├── life_after_graduation_cleaned.csv # Cleaned data
 │ └── employment_vs_major.png # Visualization sample
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
@@ -67,11 +67,17 @@ Life_After_Graduation_EDA/
 4. Launch Jupyter Notebook:
    jupyter notebook
 
-🌐 Try It Online
+---
+
+## 🌐 Try It Online
 Click the Binder badge at the top of this README to open the notebook online without any setup.
 
-📬 Contact
+---
+
+## 📬 Contact
 For questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kannadoss-ramadoss/) or raise an issue on this repo.
 
-⭐ Acknowledgements
+---
+
+## ⭐ Acknowledgements
 Inspired by real-world graduation and employment datasets. Project built to demonstrate real-world EDA skills for data science portfolios.
