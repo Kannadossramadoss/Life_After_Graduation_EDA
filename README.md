@@ -17,9 +17,18 @@ The goal of this analysis is to uncover trends and insights that help understand
 The findings are presented through clear charts and grouped statistics, using a cleaned dataset derived from the original source.
 
 ---
-
-<pre> <code> ## 📁 Folder Structure ``` Life_After_Graduation_EDA/ ├── data/ # Raw dataset │ └── life_after_graduation.csv ├── notebooks/ # Main EDA notebook │ └── Life_After_Graduation_EDA.ipynb ├── outputs/ # Cleaned data and visualizations │ ├── life_after_graduation_cleaned.csv │ └── employment_vs_major.png ├── README.md # Project documentation └── requirements.txt # Python dependencies ``` </code> </pre>
-
+```
+Life_After_Graduation_EDA/
+├── data/                         # Raw dataset
+│   └── life_after_graduation.csv
+├── notebooks/                    # Main EDA notebook
+│   └── Life_After_Graduation_EDA.ipynb
+├── outputs/                      # Cleaned data and visualizations
+│   ├── life_after_graduation_cleaned.csv
+│   └── employment_vs_major.png
+├── README.md                     # Project documentation
+└── requirements.txt              # Python dependencies
+```
 ---
 
 ## 📊 Key Insights
