@@ -18,18 +18,7 @@ The findings are presented through clear charts and grouped statistics, using a 
 
 ---
 
-## 📁 Folder Structure
-
-Life_After_Graduation_EDA/
-├── data/
-│ └── life_after_graduation.csv # Raw dataset
-├── notebooks/
-│ └── Life_After_Graduation_EDA.ipynb # Main EDA notebook
-├── outputs/
-│ ├── life_after_graduation_cleaned.csv # Cleaned data
-│ └── employment_vs_major.png # Visualization sample
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+<pre> <code> ## 📁 Folder Structure ``` Life_After_Graduation_EDA/ ├── data/ │ └── life_after_graduation.csv # Raw dataset ├── notebooks/ │ └── Life_After_Graduation_EDA.ipynb # Main EDA notebook ├── outputs/ │ ├── life_after_graduation_cleaned.csv # Cleaned data │ └── employment_vs_major.png # Visualization sample ├── README.md # Project documentation └── requirements.txt # Python dependencies ``` </code> </pre>
 
 ---
 
